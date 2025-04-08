@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm a Brazilian back-end developer currently studying Systems Analysis and Development.<br>I have knowledge of Java, Spring Boot, REST APIs, MySQL databases, JWT authentication, and tools like Flyway and Swagger.<br><br>💻 I'm always looking to learn more and build projects that solve real problems.<br><br>🚀 My repositories are focused on practice, learning, and portfolios — feel free to explore!</p>
+<p align="left">👋 Hi! I'm a Brazilian back-end developer currently studying Systems Analysis and Development.<br>I have knowledge of Java, Spring Boot, REST APIs, MySQL databases, JWT authentication, and tools like Flyway and Swagger.<br><br>💻 I'm always looking to learn more and build projects that solve real problems.<br><br>🚀 My repositories are focused on practice, learning, and portfolios — feel free to explore!</p>🚀 Check my best project: [Crypto Pay Go](https://github.com/LeandroMalikoski/CryptoPayGo)<br></p>
 
 ###
 
