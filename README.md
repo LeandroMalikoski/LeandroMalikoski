@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroMalikoski&radius=0&hide_border=false&hide_title=false&area=true&theme=noctis-minimus" height="350" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroMalikoski&radius=0&hide_border=false&hide_title=false&area=true&theme=noctis-minimus&custom_title=Commits" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
